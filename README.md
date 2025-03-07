@@ -172,6 +172,6 @@ Projects achieving over 250 points will stand out from the average submission.
 - Mention any assumptions or limitations in your implementation.
 - Not submitting the project on time will immediately disqualify you as a candidate.
 - Please do not introduce any commits after the submission time, these will not be taken into consideration.
-- To avoid other candidates finding and using your work, **DO NOT: fork this repo, use this file content nor the name of the company in your readme.**
+- To keep your submition private, **DO NOT: fork this repo, use this file content nor the name of the company in your readme.**
 
 ## Good Luck
